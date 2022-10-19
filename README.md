@@ -1,6 +1,6 @@
 # GNU-nano-Config
-My simple config file for the GNU nano text editor. If you want to use this config file, download it and place it in your home folder. <br/>
-GNU nano Website: https://www.nano-editor.org/ <br/>
+My simple config for the GNU nano text editor. If you want to use this config file, download it and place it in your home folder. <br/>
+**GNU nano Website:** https://www.nano-editor.org/ <br/>
 
 # Preview
 
