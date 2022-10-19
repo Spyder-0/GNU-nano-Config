@@ -1,0 +1,22 @@
+## Configuration File for GNU nano Text Editor.
+## System-Wide Config File Located at: /etc/nanorc
+## This File Should be Located at ~/.config/nano/nanorc or ~/.nanorc
+
+## Show Line Numbers on the Side.
+set linenumbers
+
+## Enable Word Wrapping.
+set softwrap
+
+## Enable Auto Indentations.
+set autoindent
+
+## Set the Indentation Space to 4.
+set tabsize 4
+
+## Remove Line Numbers Background Colour. Syntax: foreground_color,bg_color
+set numbercolor white
+
+## Remove Background Colour for Other Aspects of the Editor.
+# set keycolor white
+# set statuscolor white
