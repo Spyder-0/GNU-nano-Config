@@ -1,5 +1,5 @@
 # GNU-nano-Config
-My simple config for the GNU nano text editor. If you want to use this config file, download it and place it in your home folder. <br/>
+My simple config for the GNU nano text editor. If you want to use this config file, [download it](https://github.com/SpyderGamer/GNU-nano-Config/blob/main/.nanorc) and place it in your home folder. <br/>
 **GNU nano Website:** https://www.nano-editor.org/ <br/>
 
 # Preview
